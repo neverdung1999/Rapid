@@ -1,0 +1,6 @@
+[Fri, 30 Oct 2020 21:31:52 +0700] [localhost] [::1] [Notice(8): Undefined index: theme_type] [FILE: /includes/mainfile.php] [LINE: 307]
+[Fri, 30 Oct 2020 21:31:52 +0700] [localhost] [::1] [Notice(8): Undefined index: preview_theme] [FILE: /includes/mainfile.php] [LINE: 308]
+[Fri, 30 Oct 2020 21:31:52 +0700] [localhost] [::1] [Notice(8): Undefined index: site_name] [FILE: /includes/core/admin_login.php] [LINE: 427]
+[Fri, 30 Oct 2020 21:31:54 +0700] [localhost] [::1] [Notice(8): Undefined index: site_description] [FILE: /includes/core/admin_login.php] [LINE: 412]
+[Fri, 30 Oct 2020 21:31:54 +0700] [localhost] [::1] [Notice(8): Undefined index: site_description] [FILE: /includes/core/theme_functions.php] [LINE: 101]
+[Fri, 30 Oct 2020 21:47:07 +0700] [localhost] [::1] [Notice(8): Undefined index: content] [FILE: /vendor/vinades/nukeviet/Core/Optimizer.php] [LINE: 92]
